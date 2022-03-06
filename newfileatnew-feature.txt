@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 new file at new-feature branch ????
-=======
-new file at new-feature branch ????
->>>>>>> new-feature
+
